@@ -1,7 +1,7 @@
-# 树莓派防吃灰小分队
+# 树莓派防吃灰
 
 
-本仓库为喜欢折腾树莓派的人，提供一系列开拓思路的指南文章。
+本仓库名为《树莓派防吃灰》，为喜欢折腾树莓派的人，提供一系列开拓思路的指导文章，寓教于乐，让树莓派造福人类。
 
 Telegram频道：[https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)
 
@@ -41,7 +41,7 @@ Telegram频道：[https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)
 [006 《树莓派4B家庭服务器搭建指南》第六期：树莓派抓取微博博主RSS并提供公网访问，将RSSHub私有化部署到树莓派](https://www.v2fy.com/p/2021-10-20-rsshub-pi-1634690989000/)
 
 
-## 实用技巧（zhaoolee原创）
+## 实用技巧
 
 [001 《树莓派4B家庭服务器搭建指南-优化篇》树莓派开机自动mount外置硬盘](https://www.v2fy.com/p/2021-10-17-mount-1634437477000/)
 

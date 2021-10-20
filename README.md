@@ -63,6 +63,15 @@ Telegram频道：[https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)
 
 - [体验很好的Linux命令速查手册](https://wangchujiang.com/linux-command/hot.html)
 
+## 树莓派常用镜像源
+
+[树莓派官方镜像列表 https://www.raspberrypi.com/software/operating-systems/](https://www.raspberrypi.com/software/operating-systems/)
+
+[CentOS树莓派镜像源 https://people.centos.org/pgreco/CentOS-Userland-8-stream-aarch64-RaspberryPI-Minimal-4/CentOS-Userland-8-stream-aarch64-RaspberryPI-Minimal-4-sda.raw.xz](https://people.centos.org/pgreco/CentOS-Userland-8-stream-aarch64-RaspberryPI-Minimal-4/CentOS-Userland-8-stream-aarch64-RaspberryPI-Minimal-4-sda.raw.xz) 
+
+[Ubuntu 20.04树莓派镜像源 https://ubuntu.com/download/raspberry-pi/thank-you?version=20.04.3&architecture=server-arm64+raspi](https://ubuntu.com/download/raspberry-pi/thank-you?version=20.04.3&architecture=server-arm64+raspi)
+
+
 
 
 ## 树莓派相关网站

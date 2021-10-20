@@ -47,7 +47,8 @@ Telegram频道：[https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)
 
 ## 实用技巧
 
-[001 《树莓派4B家庭服务器搭建指南-优化篇》树莓派开机自动mount外置硬盘](https://www.v2fy.com/p/2021-10-17-mount-1634437477000/)
+[001 超简单的树莓派SD卡扩容方案！将树莓派16GB闪存SD卡完美克隆到64GB闪存SD卡](https://www.v2fy.com/p/2021-10-09-pi-fdisk-1633793278000/)
+[002 树莓派开机自动挂载外置硬盘](https://www.v2fy.com/p/2021-10-17-mount-1634437477000/)
 
 
 ## 扩展资料

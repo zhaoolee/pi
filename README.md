@@ -27,3 +27,15 @@
 
 [006 《树莓派4B家庭服务器搭建指南》第六期：树莓派抓取微博博主RSS并提供公网访问，将RSSHub私有化部署到树莓派](https://www.v2fy.com/p/2021-10-20-rsshub-pi-1634690989000/)
 
+
+## 实用技巧（zhaoolee原创）
+
+[001 《树莓派4B家庭服务器搭建指南-优化篇》树莓派开机自动mount外置硬盘](https://www.v2fy.com/p/2021-10-17-mount-1634437477000/)
+
+
+## 扩展资料
+
+
+[体验很好的Linux命令速查手册](https://wangchujiang.com/linux-command/hot.html) | [Linux命令速查手册开源仓库](https://github.com/jaywcjlove/linux-command)
+
+

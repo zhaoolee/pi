@@ -36,6 +36,6 @@
 ## 扩展资料
 
 
-[体验很好的Linux命令速查手册](https://wangchujiang.com/linux-command/hot.html) | [Linux命令速查手册开源仓库](https://github.com/jaywcjlove/linux-command)
+- [体验很好的Linux命令速查手册](https://wangchujiang.com/linux-command/hot.html) | [Linux命令速查手册开源仓库](https://github.com/jaywcjlove/linux-command)
 
 

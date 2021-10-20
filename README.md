@@ -42,10 +42,6 @@ Telegram频道：[https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)
 [002 《树莓派4B家庭服务器搭建指南》第二期：网盘界的未来科技，新增smb服务并完成内网穿透，实现所有设备共享文件](https://www.v2fy.com/p/2021-10-03-pi-smb-1633231650000/)
 
 
-
-
-
-
 [001 《树莓派4B家庭服务器搭建指南》第一期：刷Ubuntu Server 20.04，绑定公网域名，对公网提供http服务，SSH登录服务](https://www.v2fy.com/p/2021-10-01-pi-server-1633066843000/)
 
 
@@ -71,6 +67,7 @@ Telegram频道：[https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)
 
 ## 树莓派相关网站
 
+[树莓派官网](https://www.raspberrypi.org/)
 
 [树莓派网盘解决方案--树莓盘](https://bbs.shumeipan.com/)
 

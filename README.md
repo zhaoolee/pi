@@ -63,7 +63,7 @@ Telegram频道：[https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)
 
 - [体验很好的Linux命令速查手册](https://wangchujiang.com/linux-command/hot.html)
 
-## 树莓派常用镜像源
+## 树莓派常用镜像下载页
 
 [树莓派官方镜像列表 https://www.raspberrypi.com/software/operating-systems/](https://www.raspberrypi.com/software/operating-systems/)
 

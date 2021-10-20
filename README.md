@@ -5,7 +5,7 @@
 
 Telegram频道：[https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)
 
-
+![pi](https://user-images.githubusercontent.com/15868458/138030055-7d0cb756-fe9b-4a3d-8c81-eb3474fe7962.png)
 
 ## 为什么要使用树莓派？树莓派对比Windows家用电脑有什么优势？
 

@@ -1,9 +1,13 @@
 # 树莓派防吃灰
 
 
-本仓库名为《树莓派防吃灰》，为喜欢折腾树莓派的人，提供一系列开拓思路的指导文章，寓教于乐，让树莓派造福人类。
+本仓库名为《树莓派防吃灰》，永久开源地址为 https://github.com/zhaoolee/pi ，为喜欢折腾树莓派的人，提供打开思路的资源，寓教于乐，让树莓派造福人类。
+
+
 
 Telegram频道：[https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)
+
+
 
 ![pi](https://user-images.githubusercontent.com/15868458/138030055-7d0cb756-fe9b-4a3d-8c81-eb3474fe7962.png)
 

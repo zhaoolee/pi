@@ -5,7 +5,9 @@
 
 
 
-Telegram频道：[https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)
+Telegram频道：[https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)  
+
+Telegram频道频道RSS订阅地址 [https://rsshub.v2fy.com/telegram/channel/zhaoolee_pi](https://rsshub.v2fy.com/telegram/channel/zhaoolee_pi)
 
 
 

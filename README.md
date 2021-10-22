@@ -82,3 +82,8 @@ Telegram频道RSS订阅地址: [https://rsshub.v2fy.com/telegram/channel/zhaoole
 
 [树莓派网盘解决方案--树莓盘](https://bbs.shumeipan.com/)
 
+
+## 微信交流群
+
+
+![微信](https://frp.v2fy.com/dynamic-picture/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4/qr.png)

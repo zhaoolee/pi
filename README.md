@@ -87,3 +87,5 @@ Telegram频道RSS订阅地址: [https://rsshub.v2fy.com/telegram/channel/zhaoole
 
 微信二维码图片地址: [https://frp.v2fy.com/dynamic-picture/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4/qr.png](https://frp.v2fy.com/dynamic-picture/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4/qr.png)
 
+如果以上二维码不可用，可以通过公众号「0加1」最右边的菜单栏，加zhaoolee微信好友，备注「树莓派不吃灰」，zhaoolee拉你进微信交流群
+

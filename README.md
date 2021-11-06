@@ -30,6 +30,8 @@ Telegram频道RSS订阅地址: [https://rsshub.v2fy.com/telegram/channel/zhaoole
 ## 树莓派家用服务器搭建指南(zhaoolee原创)
 
 
+[007 《树莓派4B家庭服务器搭建指南》第七期：使用树莓派解锁网易云灰色音乐，并通过公网域名分享给小伙伴](https://www.v2fy.com/p/2021-11-06-netmusic-pi-1636163886000/)
+
 [006 《树莓派4B家庭服务器搭建指南》第六期：树莓派抓取微博博主RSS并提供公网访问，将RSSHub私有化部署到树莓派](https://www.v2fy.com/p/2021-10-20-rsshub-pi-1634690989000/)
 
 

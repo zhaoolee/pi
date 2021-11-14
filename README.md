@@ -29,6 +29,8 @@ Telegram频道RSS订阅地址: [https://rsshub.v2fy.com/telegram/channel/zhaoole
 
 ## 树莓派家用服务器搭建指南(zhaoolee原创)
 
+[008 《树莓派4B家庭服务器搭建指南》第八期：比某度某果同步盘更快，树莓派部署免费P2P文件同步服务程序syncthing全攻略](https://www.v2fy.com/p/2021-11-14-syncthing-1636866052000/)
+
 
 [007 《树莓派4B家庭服务器搭建指南》第七期：使用树莓派解锁网易云灰色音乐，并通过公网域名分享给小伙伴](https://www.v2fy.com/p/2021-11-06-netmusic-pi-1636163886000/)
 

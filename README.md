@@ -30,6 +30,8 @@ Telegram频道RSS订阅地址: [https://rsshub.v2fy.com/telegram/channel/zhaoole
 ## 树莓派家用服务器搭建指南(zhaoolee原创)
 
 
+[010 《树莓派4B家庭服务器搭建指南》第十期：在树莓派建Wiki, 部署TiddlyWiki完成读写权限分离，开放到公网，实现笔记自由](https://www.v2fy.com/p/2021-11-27-wiki-1637997854000/)
+
 [009 《树莓派4B家庭服务器搭建指南》第九期：用树莓派低成本给热心老哥搭个窝，在树莓派建立BBS论坛flarum并映射到公网全攻略](https://www.v2fy.com/p/2021-11-26-flarum-1637921368000/)
 
 

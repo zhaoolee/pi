@@ -29,6 +29,8 @@ Telegram频道RSS订阅地址: [https://rsshub.v2fy.com/telegram/channel/zhaoole
 
 ## 树莓派家用服务器搭建指南(zhaoolee原创)
 
+[016《树莓派4B家庭服务器搭建指南》第十六期：安装Calibre Web建立公网可访问私人电子书库](https://www.v2fy.com/p/2023-06-09-calibre-web-1686295170000/)
+
 [015 《树莓派4B家庭服务器搭建指南》第十五期：树莓派自建私有化Docker仓库, 并配置公网访问用户认证](https://www.v2fy.com/p/2022-01-08-docker-registry-1641648899000/)
 
 [014 《树莓派4B家庭服务器搭建指南》第十四期：2022年最新版树莓派4B搭建k8s集群, 安装可视化Kuboard网页管理面板](https://www.v2fy.com/p/2022-01-05-k8s-pi-1641393748000/)

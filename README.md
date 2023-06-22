@@ -29,6 +29,8 @@ Telegram频道RSS订阅地址: [https://rsshub.v2fy.com/telegram/channel/zhaoole
 
 ## 树莓派家用服务器搭建指南(zhaoolee原创)
 
+[018《树莓派4B家庭服务器搭建指南》第十八期：代理Windows台式机支持Remote Desktop外网远程桌面连接, 随时玩转Stable Diffusion WebUI](https://www.v2fy.com/p/2023-06-22-windows-pi-1687427373000/)
+
 [017《树莓派4B家庭服务器搭建指南》第十七期：树莓派配合性能更好的闲置笔记本搭建开源jellyfin私人影院](https://www.v2fy.com/p/2023-06-10-jellyfin-1686388142000/)
 
 [016《树莓派4B家庭服务器搭建指南》第十六期：安装Calibre Web建立公网可访问私人电子书库](https://www.v2fy.com/p/2023-06-09-calibre-web-1686295170000/)

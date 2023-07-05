@@ -73,6 +73,9 @@ Telegram频道RSS订阅地址: [https://rsshub.v2fy.com/telegram/channel/zhaoole
 [001 《树莓派4B家庭服务器搭建指南》第一期：刷Ubuntu Server 20.04，绑定公网域名，对公网提供http服务，SSH登录服务](https://www.v2fy.com/p/2021-10-01-pi-server-1633066843000/)
 
 
+## Raspberry Pi OS 树莓派Linux系统桌面发行版折腾记录
+
+[无显示器玩转树莓派桌面版](https://www.v2fy.com/p/2023-06-23-pi-desktop-1687508111000/)
 
 
 

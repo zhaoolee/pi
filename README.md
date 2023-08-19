@@ -9,6 +9,7 @@ Telegram频道: [https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)
 
 Telegram频道RSS订阅地址: [https://rsshub.v2fy.com/telegram/channel/zhaoolee_pi](https://rsshub.v2fy.com/telegram/channel/zhaoolee_pi)
 
+![pi-20](https://github.com/zhaoolee/pi/assets/15868458/47ad8d7d-eb64-4409-bce5-29ec6a780caf)
 
 
 ![pi](https://user-images.githubusercontent.com/15868458/138030055-7d0cb756-fe9b-4a3d-8c81-eb3474fe7962.png)

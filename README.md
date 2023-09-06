@@ -74,7 +74,7 @@ Telegram频道RSS订阅地址: [https://rsshub.v2fy.com/telegram/channel/zhaoole
 
 [《树莓派4B家庭服务器搭建指南》第二期：网盘界的未来科技，新增smb服务并完成内网穿透，实现所有设备共享文件](https://v2fy.com/p/2021-10-03-pi-smb-1633231650000/)
 
-[《树莓派4B家庭服务器搭建指南》刷Ubuntu Server 20.04，绑定公网域名，对公网提供http服务，SSH登录服务](https://v2fy.com/p/2021-10-01-pi-server-1633066843000/)
+[《树莓派4B家庭服务器搭建指南》第一期：刷Ubuntu Server 20.04，绑定公网域名，对公网提供http服务，SSH登录服务](https://v2fy.com/p/2021-10-01-pi-server-1633066843000/)
 
 ---end---
 

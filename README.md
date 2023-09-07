@@ -25,9 +25,13 @@ Telegram频道RSS订阅地址: [https://rsshub.v2fy.com/telegram/channel/zhaoole
 - 树莓派社区成熟，软件生态好，开源社区极为活跃，来自世界各地的极客们，分享自己奇妙的开源项目，连微软都为树莓派定制了Win10镜像。
 - 树莓派能持续摇人入伙， 硬件设计优秀，稳定性好， 软件开源，系统持续更新， 可以给学生玩的编程电脑，信用卡大小，仅需35美金！
 
-Web合集页: [https://v2fy.com?post_category=树莓派不吃灰](https://v2fy.com?post_category=树莓派不吃灰)
+## Web合集页: 
 
-Github合集存储目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://github.com/zhaoolee/pi/tree/main/_posts) 
+[https://v2fy.com?post_category=树莓派不吃灰](https://v2fy.com?post_category=树莓派不吃灰)
+
+## Github合集目录: 
+
+[https://github.com/zhaoolee/pi/tree/main/_posts](https://github.com/zhaoolee/pi/tree/main/_posts) 
 
 
 

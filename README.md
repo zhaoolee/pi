@@ -3,8 +3,6 @@
 
 《树莓派防吃灰》（也可以叫《树莓派不吃灰》，怎么好念怎么来），永久开源地址为 https://github.com/zhaoolee/pi ，让Linux融入生活，为喜欢折腾树莓派的人，提供打开思路的资源，寓教于乐，让树莓派造福人类。
 
-
-
 Telegram频道: [https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)  
 
 Telegram频道RSS订阅地址: [https://rsshub.v2fy.com/telegram/channel/zhaoolee_pi](https://rsshub.v2fy.com/telegram/channel/zhaoolee_pi)
@@ -26,6 +24,11 @@ Telegram频道RSS订阅地址: [https://rsshub.v2fy.com/telegram/channel/zhaoole
 - 树莓派刷镜像很方便，只需插拔替换SD卡，即快速体验多个系统，另外树莓派也支持U盘启动，如果你有N个U盘，或N张SD卡，刷系统会非常快乐。
 - 树莓派社区成熟，软件生态好，开源社区极为活跃，来自世界各地的极客们，分享自己奇妙的开源项目，连微软都为树莓派定制了Win10镜像。
 - 树莓派能持续摇人入伙， 硬件设计优秀，稳定性好， 软件开源，系统持续更新， 可以给学生玩的编程电脑，信用卡大小，仅需35美金！
+
+Web合集页: [https://v2fy.com?post_category=树莓派不吃灰](https://v2fy.com?post_category=树莓派不吃灰)
+
+Github合集存储目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://github.com/zhaoolee/pi/tree/main/_posts) 
+
 
 
 ---start---
@@ -78,6 +81,8 @@ Telegram频道RSS订阅地址: [https://rsshub.v2fy.com/telegram/channel/zhaoole
 
 ---end---
 
+
+备份用阅读地址: https://v2fy.zhaoolee.com/?post_category=%e6%a0%91%e8%8e%93%e6%b4%be%e4%b8%8d%e5%90%83%e7%81%b0
 
 ## Raspberry Pi OS 树莓派Linux系统桌面发行版折腾记录
 

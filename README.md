@@ -37,7 +37,7 @@ Telegram频道RSS订阅地址: [https://rsshub.v2fy.com/telegram/channel/zhaoole
 
 ---start---
 ## 目录(2023年09月12日更新, 本仓库共管理24篇文章)
-[《树莓派4B家庭服务器搭建指南》第二十一期：运行开源服务rustdesk, 内网丝滑，外网流畅控制Windows, macOS, Linux设备攻略](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
+[《树莓派4B家庭服务器搭建指南》第二十一期：安装开源远程桌面服务rustdesk, 内网丝滑,外网流畅控制Windows,macOS,Linux设备](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
 
 [《树莓派4B家庭服务器搭建指南》第二十期：在树莓派运行rsnapshot, 实现对服务器数据低成本增量本地备份](https://v2fy.com/p/2023-08-17-rsnapshot-1692258217000/)
 

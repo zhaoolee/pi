@@ -36,7 +36,7 @@ Telegram频道RSS订阅地址: [https://rsshub.v2fy.com/telegram/channel/zhaoole
 
 
 ---start---
-## 目录(2023年09月06日更新)
+## 目录(2023年09月07日更新)
 [《树莓派4B家庭服务器搭建指南》第二十期：在树莓派运行rsnapshot, 实现对服务器数据低成本增量本地备份](https://v2fy.com/p/2023-08-17-rsnapshot-1692258217000/)
 
 [《树莓派4B家庭服务器搭建指南》第十九期：在树莓派搭建私人音乐服务器navidrome，并支持显示中文歌词](https://v2fy.com/p/2023-07-18-navidrome-1689661443000/)

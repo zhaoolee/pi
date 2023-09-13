@@ -17,12 +17,14 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 ---start---
-## 目录(2023年09月12日更新, 本仓库共管理24篇文章)
-[《树莓派家庭服务器搭建指南》第二十一期：安装开源远程桌面服务rustdesk, 内网丝滑,外网流畅控制Windows,macOS,Linux设备](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
+## 目录(2023年09月13日更新, 本仓库共管理25篇文章)
+[《树莓派家庭服务器搭建指南》第二十一期：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
 
 [《树莓派家庭服务器搭建指南》第二十期：在树莓派运行rsnapshot, 实现对服务器数据低成本增量本地备份](https://v2fy.com/p/2023-08-17-rsnapshot-1692258217000/)
 
 [《树莓派家庭服务器搭建指南》第十九期：在树莓派搭建私人音乐服务器navidrome，并支持显示中文歌词](https://v2fy.com/p/2023-07-18-navidrome-1689661443000/)
+
+[无显示器玩转树莓派桌面版](https://v2fy.com/p/2023-06-23-pi-desktop-1687508111000/)
 
 [《树莓派家庭服务器搭建指南》第十八期：代理Windows台式机支持Remote Desktop外网远程桌面连接, 随时玩转Stable Diffusion WebUI](https://v2fy.com/p/2023-06-22-windows-pi-1687427373000/)
 
@@ -52,11 +54,11 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 [《树莓派家庭服务器搭建指南》第五期： 用树莓派搭建私人每日自动签到平台](https://v2fy.com/p/2021-10-19-qiandao-1634595237000/)
 
-[《树莓派家庭服务器搭建指南-优化篇》树莓派开机自动mount外置硬盘](https://v2fy.com/p/2021-10-17-mount-1634437477000/)
+[《实用技巧》树莓派开机自动mount外置硬盘](https://v2fy.com/p/2021-10-17-mount-1634437477000/)
 
 [树莓派对比PC的优势清单](https://v2fy.com/p/2021-10-14-pi-1634221155000/)
 
-[超简单的树莓派SD卡扩容方案，将树莓派16GB闪存SD卡克隆到64GB闪存SD卡](https://v2fy.com/p/2021-10-09-pi-fdisk-1633793278000/)
+[《实用技巧》超简单的树莓派SD卡扩容方案，将树莓派16GB闪存SD卡克隆到64GB闪存SD卡](https://v2fy.com/p/2021-10-09-pi-fdisk-1633793278000/)
 
 [《树莓派家庭服务器搭建指南》第四期： 用树莓派搭建公网个人下载平台aria2-pro，推荐6个优质种子资源站](https://v2fy.com/p/2021-10-05-pi-bt-aria2-pro-1633436631000/)
 

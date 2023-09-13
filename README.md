@@ -16,7 +16,6 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 
-
 ---start---
 ## 目录(2023年09月12日更新, 本仓库共管理24篇文章)
 [《树莓派家庭服务器搭建指南》第二十一期：安装开源远程桌面服务rustdesk, 内网丝滑,外网流畅控制Windows,macOS,Linux设备](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
@@ -84,10 +83,7 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 - 树莓派能持续摇人入伙， 硬件设计优秀，稳定性好， 软件开源，系统持续更新， 可以给学生玩的编程电脑，信用卡大小，仅需35美金！
 
 
-## 学习资料
 
-
-- [体验很好的Linux命令速查手册](https://wangchujiang.com/linux-command/hot.html)
 
 ## 树莓派常用镜像下载页
 
@@ -97,14 +93,25 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 [Ubuntu 20.04树莓派镜像源 https://ubuntu.com/download/raspberry-pi/thank-you?version=20.04.3&architecture=server-arm64+raspi](https://ubuntu.com/download/raspberry-pi/thank-you?version=20.04.3&architecture=server-arm64+raspi)
 
+## Linux学习资料
 
+
+[体验很好的Linux命令速查手册](https://wangchujiang.com/linux-command/hot.html)
+
+[鸟哥的Linux私房菜](https://linux.vbird.org/)
 
 
 ## 树莓派相关网站
 
+[树莓派实验室](https://shumeipai.nxez.com/)
+
+[树莓派游戏模拟器系统](https://retropie.org.uk/)
+
 [树莓派官网](https://www.raspberrypi.org/)
 
-[树莓派网盘解决方案--树莓盘](https://bbs.shumeipan.com/)
+[树莓派网盘解决方案-树莓盘](https://bbs.shumeipan.com/)
+
+
 
 
 ## 微信交流群

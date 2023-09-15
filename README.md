@@ -12,8 +12,8 @@ Hope that "Pi in Use" can become a classic open-source book for **integrating Li
 Telegram频道: [https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)  
 Telegram Channel: [https://t.me/zhaoolee_pi](https://t.me/zhaoolee_pi)
 
-Web合集页: [https://v2fy.com?post_category=树莓派不吃灰](https://v2fy.com?post_category=树莓派不吃灰)
-Web Collection Page: [https://v2fy.com?post_category=树莓派不吃灰](https://v2fy.com?post_category=树莓派不吃灰)
+Web合集页: [https://v2fy.com?post_category=树莓派不吃灰-pi-in-use](https://v2fy.com?post_category=树莓派不吃灰-pi-in-use)
+Web Collection Page: [https://v2fy.com?post_category=树莓派不吃灰-pi-in-use](https://v2fy.com?post_category=树莓派不吃灰-pi-in-use)
 
 Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://github.com/zhaoolee/pi/tree/main/_posts)
 Github Collection Directory: [https://github.com/zhaoolee/pi/tree/main/_posts](https://github.com/zhaoolee/pi/tree/main/_posts)

@@ -333,5 +333,6 @@ def main():
             
     # 4. 将链接信息写入insert_index_info_in_readme
     insert_index_info_in_readme()
+    # 5. 为_post创建副本包含所有图片
 
 main()

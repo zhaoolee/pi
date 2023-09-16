@@ -122,9 +122,6 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 - 🌈Raspberry Pi can continue to attract people, with excellent hardware design, good stability, open source software, continuous system updates, it can be a programming computer for students to play with, the size of a credit card, only costs $35!
 
 
-![](https://user-images.githubusercontent.com/15868458/138030055-7d0cb756-fe9b-4a3d-8c81-eb3474fe7962.png)
-
-
 ## 树莓派常用镜像下载页 / Raspberry Pi Common Image Download Page
 
 [树莓派官方镜像列表 https://www.raspberrypi.com/software/operating-systems/](https://www.raspberrypi.com/software/operating-systems/)

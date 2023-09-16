@@ -30,12 +30,12 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 ---start---
-## 目录(2023年09月13日更新, 本仓库共管理25篇文章)
-[《树莓派家庭服务器搭建指南》第二十一期：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
+## 目录(2023年09月16日更新, 本仓库共管理25篇文章)
+[《树莓派家庭服务器搭建指南》第二十一期：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机 / 《Use Pi》Issue 21 Deploy the open-source remote desktop service rustdesk, smoothly control Windows, macOS, Linux hosts in the intranet and fluently in the extranet](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
 
-[《树莓派家庭服务器搭建指南》第二十期：在树莓派运行rsnapshot, 实现对服务器数据低成本增量本地备份](https://v2fy.com/p/2023-08-17-rsnapshot-1692258217000/)
+[《树莓派家庭服务器搭建指南》第二十期：在树莓派运行rsnapshot, 实现对服务器数据低成本增量本地备份 / 《Use Pi》Issue 20 Running rsnapshot on Raspberry Pi to Achieve Low-Cost Incremental Local Backup of Server Data](https://v2fy.com/p/2023-08-17-rsnapshot-1692258217000/)
 
-[《树莓派家庭服务器搭建指南》第十九期：在树莓派搭建私人音乐服务器navidrome，并支持显示中文歌词](https://v2fy.com/p/2023-07-18-navidrome-1689661443000/)
+[《树莓派家庭服务器搭建指南》第十九期：在树莓派搭建私人音乐服务器navidrome，并支持显示歌词 / 《Use Pi》 Issue 19 Build a private music server navidrome on Raspberry Pi, and support the display of lyrics](https://v2fy.com/p/2023-07-18-navidrome-1689661443000/)
 
 [无显示器玩转树莓派桌面版](https://v2fy.com/p/2023-06-23-pi-desktop-1687508111000/)
 
@@ -79,7 +79,7 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 [《树莓派家庭服务器搭建指南》第二期：网盘界的未来科技，新增smb服务并完成内网穿透，实现所有设备共享文件](https://v2fy.com/p/2021-10-03-pi-smb-1633231650000/)
 
-[《树莓派家庭服务器搭建指南》第一期：刷Ubuntu Server 20.04，绑定公网域名，对公网提供http服务，SSH登录服务](https://v2fy.com/p/2021-10-01-pi-server-1633066843000/)
+[《树莓派家庭服务器搭建指南》第一期：刷Ubuntu Server 20.04，绑定公网域名，对公网提供http服务，SSH登录服务 / 'Raspberry Pi Home Server Setup Guide' Part 1: Flashing Ubuntu Server 20.04, Binding Public Domain, Providing HTTP Service to the Public Network, SSH Login Service](https://v2fy.com/p/2021-10-01-pi-server-1633066843000/)
 
 ---end---
 

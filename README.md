@@ -41,7 +41,7 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 [《树莓派家庭服务器搭建指南》第十八期：代理Windows台式机支持Remote Desktop外网远程桌面连接, 随时玩转Stable Diffusion WebUI / 《Use Pi》 Issue 18 Proxying Windows Desktop to Support Remote Desktop Connection from the Internet, Playing with Stable Diffusion WebUI anytime](https://v2fy.com/p/2023-06-22-windows-pi-1687427373000/)
 
-[《树莓派家庭服务器搭建指南》第十七期：树莓派配合性能更好的闲置笔记本搭建开源免费jellyfin私人影院](https://v2fy.com/p/2023-06-10-jellyfin-1686388142000/)
+[《树莓派家庭服务器搭建指南》第十七期：树莓派配合性能更好的闲置笔记本搭建开源免费jellyfin私人影院  / Raspberry Pi Home Server Building Guide Issue 17 Raspberry Pi combined with a better performing idle laptop to build an open-source free jellyfin private cinema](https://v2fy.com/p/2023-06-10-jellyfin-1686388142000/)
 
 [《树莓派家庭服务器搭建指南》第十六期：安装Calibre Web建立公网可访问私人电子书库 / 《Use Pi》 Issue 16 Install Calibre Web to Build a Publicly Accessible Private E-book Library](https://v2fy.com/p/2023-06-09-calibre-web-1686295170000/)
 

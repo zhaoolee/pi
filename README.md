@@ -30,7 +30,7 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 ---start---
-## 目录(2023年09月18日更新, 本仓库共管理25篇文章)
+## 目录(2023年09月19日更新, 本仓库共管理25篇文章)
 [《树莓派家庭服务器搭建指南》第二十一期：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机 / 《Use Pi》Issue 21 Deploy the open-source remote desktop service rustdesk, smoothly control Windows, macOS, Linux hosts in the intranet and fluently in the extranet](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
 
 [《树莓派家庭服务器搭建指南》第二十期：在树莓派运行rsnapshot, 实现对服务器数据低成本增量本地备份 / 《Use Pi》Issue 20 Running rsnapshot on Raspberry Pi to Achieve Low-Cost Incremental Local Backup of Server Data](https://v2fy.com/p/2023-08-17-rsnapshot-1692258217000/)
@@ -53,7 +53,7 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 [《树莓派家庭服务器搭建指南》第十二期：降低BBS运营成本，将面向未来的BBS论坛程序Discourse部署到树莓派（私人BBS论坛一年运营成本300块！）](https://v2fy.com/p/2021-12-23-discourse-pi-1640269071000/)
 
-[《树莓派家庭服务器搭建指南》第十一期：个人博客最佳解决方案，在树莓派搭建WordPress网站，并开放到公网](https://v2fy.com/p/2021-12-01-wordpress-pi-1638367676000/)
+[《树莓派家庭服务器搭建指南》第十一期：个人博客最佳解决方案，在树莓派搭建WordPress网站，并开放到公网 / 《Use Pi》 Issue 11 The Best Solution for Personal Blogs, Building a WordPress Website on Raspberry Pi, and Making it Public](https://v2fy.com/p/2021-12-01-wordpress-pi-1638367676000/)
 
 [《树莓派家庭服务器搭建指南》第十期：在树莓派部署TiddlyWiki完成读写权限分离，开放到公网，建立自己的个人知识库](https://v2fy.com/p/2021-11-27-wiki-1637997854000/)
 

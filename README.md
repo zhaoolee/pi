@@ -75,9 +75,9 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 [《树莓派家庭服务器搭建指南》第四期： 用树莓派搭建公网个人下载平台aria2-pro，推荐6个优质种子资源站](https://v2fy.com/p/2021-10-05-pi-bt-aria2-pro-1633436631000/)
 
-[《树莓派家庭服务器搭建指南》第三期：树莓派自建互联网云盘，跨设备打通全平台，安卓和iOS如何在非445端口使用samba服务](https://v2fy.com/p/2021-10-04-pi-ios-android-1633327266000/)
+[《树莓派家庭服务器搭建指南》第三期：树莓派自建互联网云盘，跨设备打通全平台，安卓和iOS如何在非445端口使用samba服务 / 《Use Pi》 Issue 3 Raspberry Pi Self-Built Internet Cloud Disk, Cross-Device Connection Across All Platforms, How Android and iOS Use Samba Service on Non-445 Ports](https://v2fy.com/p/2021-10-04-pi-ios-android-1633327266000/)
 
-[《树莓派家庭服务器搭建指南》第二期：网盘界的未来科技，新增smb服务并完成内网穿透，实现所有设备共享文件](https://v2fy.com/p/2021-10-03-pi-smb-1633231650000/)
+[《树莓派家庭服务器搭建指南》第二期：网盘界的未来科技，新增smb服务并完成内网穿透，实现所有设备共享文件 / 《Use Pi》 Issue 2 The Future Technology of the Network Disk Industry, Adding SMB Service and Completing Intranet Penetration, Realizing File Sharing for All Devices](https://v2fy.com/p/2021-10-03-pi-smb-1633231650000/)
 
 [《树莓派家庭服务器搭建指南》第一期：刷Ubuntu Server 20.04，绑定公网域名，对公网提供http服务，SSH登录服务 / 《Use Pi》 Issue 1  Flashing Ubuntu Server 20.04, Binding Public Domain, Providing HTTP Service to the Public Network, SSH Login Service](https://v2fy.com/p/2021-10-01-pi-server-1633066843000/)
 

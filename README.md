@@ -30,8 +30,10 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 ---start---
-## 目录(2023年09月22日更新, 本仓库共管理25篇文章)
-[《树莓派不吃灰》第二十一期：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机 / 《Use Pi》Issue 21 Deploy the open-source remote desktop service rustdesk, smoothly control Windows, macOS, Linux hosts in the intranet and fluently in the extranet](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
+## 目录(2023年10月14日更新, 本仓库共管理26篇文章)
+[《树莓派家庭服务器搭建指南》第二十二期：搭建qBittorrent Web UI为PT站7x24小时做种，持续获取魔力值](https://v2fy.com/p/2023-10-13-17-53-40-qbit/)
+
+[《树莓派家庭服务器搭建指南》第二十一期：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机 / 《Use Pi》Issue 21 Deploy the open-source remote desktop service rustdesk, smoothly control Windows, macOS, Linux hosts in the intranet and fluently in the extranet](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
 
 [《树莓派不吃灰》第二十期：在树莓派运行rsnapshot, 实现对服务器数据低成本增量本地备份 / 《Use Pi》Issue 20 Running rsnapshot on Raspberry Pi to Achieve Low-Cost Incremental Local Backup of Server Data](https://v2fy.com/p/2023-08-17-rsnapshot-1692258217000/)
 
@@ -47,7 +49,8 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 [《树莓派不吃灰》第十五期：树莓派自建私有化Docker仓库, 并配置公网访问用户认证 《Use Pi》  Issue 15 Raspberry Pi Self-Building Private Docker Repository, and Configuring Public Network Access User Authentication](https://v2fy.com/p/2022-01-08-docker-registry-1641648899000/)
 
-[《树莓派不吃灰》第十四期：使用树莓派4B搭建k8s集群](https://v2fy.com/p/2022-01-05-k8s-pi-1641393748000/)
+
+[《树莓派家庭服务器搭建指南》第十四期：使用树莓派4B搭建k8s集群 / 《Use Pi》 Issue 14 Building a k8s Cluster Using Raspberry Pi 4B](https://v2fy.com/p/2022-01-05-k8s-pi-1641393748000/)
 
 [《树莓派不吃灰》第十三期：在树莓派安装Lazydocker命令行图形化界面快速管理Docker服务及镜像  / 《Use Pi》 Issue 13 Installing Lazydocker on Raspberry Pi for Quick Docker Service and Image Management via Command Line GUI](https://v2fy.com/p/2021-12-25-lazydocker-1640429729000/)
 

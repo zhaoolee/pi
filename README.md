@@ -30,7 +30,9 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 ---start---
-## 目录(2023年10月14日更新, 本仓库共管理26篇文章)
+## 目录(2023年10月18日更新, 本仓库共管理27篇文章)
+[《树莓派不吃灰》第二十二期：在树莓派搭建个人摄影站](https://v2fy.com/p/2023-10-17-14-51-23-photography/)
+
 [《树莓派不吃灰》第二十二期：搭建qBittorrent Web UI为PT站7x24小时做种，持续获取魔力值 / 《Use Pi》Issue 22 Building qBittorrent Web UI for PT site to seed 7x24 hours, continuously obtaining magic values](https://v2fy.com/p/2023-10-13-17-53-40-qbit/)
 
 [《树莓派不吃灰》第二十一期：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机 / 《Use Pi》Issue 21 Deploy the open-source remote desktop service rustdesk, smoothly control Windows, macOS, Linux hosts in the intranet and fluently in the extranet](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)

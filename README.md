@@ -126,6 +126,24 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 - 🌈Raspberry Pi can continue to attract people, with excellent hardware design, good stability, open source software, continuous system updates, it can be a programming computer for students to play with, the size of a credit card, only costs $35!
 
 
+
+## 没有树莓派可以玩转《树莓派不吃灰》系列么？
+
+如果你有一台可以常年开机的Windows主机，也是可以的。本系列使用了Ubuntu作为系统镜像，你可以往Windows安装虚拟机软件Vmware Workstation Pro V17以上的版本
+
+https://docs.vmware.com/cn/VMware-Workstation-Pro/17/com.vmware.ws.using.doc/GUID-44497201-A4AC-4867-BEE7-1BDC7641E66C.html 
+
+按照官方教程实现Windows开机 VM自启动Ubuntu虚拟机。
+
+
+
+这个方案的好处在于，可以实现无桌面启动Ubuntu虚拟机，启动速度很快。如果在主机主板上装个远程开机模块硬件，可以实现远程控制开机。而且虚拟机的配置可以通过Vmware 按需调整。
+
+
+
+
+
+
 ## 树莓派常用镜像下载页 / Raspberry Pi Common Image Download Page
 
 [树莓派官方镜像列表 https://www.raspberrypi.com/software/operating-systems/](https://www.raspberrypi.com/software/operating-systems/)

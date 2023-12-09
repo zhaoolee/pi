@@ -30,7 +30,9 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 ---start---
-## 目录(2023年10月28日更新, 本仓库共管理27篇文章)
+## 目录(2023年12月09日更新, 本仓库共管理28篇文章)
+[《树莓派不吃灰》第二十四期：懒是第一生产力，为树莓派安装可视化开源管理面板1Panel](https://v2fy.com/p/2023-12-09-12-11-10-1panel/)
+
 [《树莓派不吃灰》第二十三期：在树莓派搭建个人摄影站 / 《Use Pi》Issue 23  Building a Personal Photography Website on Raspberry Pi](https://v2fy.com/p/2023-10-17-14-51-23-photography/)
 
 [《树莓派不吃灰》第二十二期：搭建qBittorrent Web UI为PT站7x24小时做种，持续获取魔力值 / 《Use Pi》Issue 22 Building qBittorrent Web UI for PT site to seed 7x24 hours, continuously obtaining magic values](https://v2fy.com/p/2023-10-13-17-53-40-qbit/)

@@ -30,20 +30,20 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 ---start---
-## 目录(2024年01月11日更新, 本仓库共管理29篇文章)
+## 目录(2024年01月13日更新, 本仓库共管理29篇文章)
 [《树莓派不吃灰》第二十五期：以树莓派为网关，将追剧刷课神器Plex服务配置到公网](https://v2fy.com/p/2024-01-05-15-57-07-plex/)
 
 [《树莓派不吃灰》第二十四期：懒是第一生产力，为树莓派安装可视化开源管理面板1Panel](https://v2fy.com/p/2023-12-09-12-11-10-1panel/)
 
-[《树莓派不吃灰》第二十三期：在树莓派搭建个人摄影站 / 《Use Pi》Issue 23  Building a Personal Photography Website on Raspberry Pi](https://v2fy.com/p/2023-10-17-14-51-23-photography/)
+[《树莓派不吃灰》第二十三期：在树莓派搭建个人摄影站](https://v2fy.com/p/2023-10-17-14-51-23-photography/)
 
-[《树莓派不吃灰》第二十二期：搭建qBittorrent Web UI为PT站7x24小时做种，持续获取魔力值 / 《Use Pi》Issue 22 Building qBittorrent Web UI for PT site to seed 7x24 hours, continuously obtaining magic values](https://v2fy.com/p/2023-10-13-17-53-40-qbit/)
+[《树莓派不吃灰》第二十二期：搭建qBittorrent Web UI为PT站7x24小时做种，持续获取魔力值](https://v2fy.com/p/2023-10-13-17-53-40-qbit/)
 
 [《树莓派不吃灰》第二十一期：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机 / 《Use Pi》Issue 21 Deploy the open-source remote desktop service rustdesk, smoothly control Windows, macOS, Linux hosts in the intranet and fluently in the extranet](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
 
-[《树莓派不吃灰》第二十期：在树莓派运行rsnapshot, 实现对服务器数据低成本增量本地备份 / 《Use Pi》Issue 20 Running rsnapshot on Raspberry Pi to Achieve Low-Cost Incremental Local Backup of Server Data](https://v2fy.com/p/2023-08-17-rsnapshot-1692258217000/)
+[《树莓派不吃灰》第二十期：在树莓派运行rsnapshot, 实现对服务器数据低成本增量本地备份](https://v2fy.com/p/2023-08-17-rsnapshot-1692258217000/)
 
-[《树莓派不吃灰》第十九期：在树莓派搭建私人音乐服务器navidrome，并支持显示歌词 / 《Use Pi》 Issue 19 Build a private music server navidrome on Raspberry Pi, and support the display of lyrics](https://v2fy.com/p/2023-07-18-navidrome-1689661443000/)
+[《树莓派不吃灰》第十九期：在树莓派搭建私人音乐服务器navidrome，并支持显示歌词](https://v2fy.com/p/2023-07-18-navidrome-1689661443000/)
 
 [无显示器玩转树莓派桌面版 / Play with Raspberry Pi Desktop Version Without a Monitor](https://v2fy.com/p/2023-06-23-pi-desktop-1687508111000/)
 
@@ -81,7 +81,7 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 [《实用技巧》超简单的树莓派SD卡扩容方案，将树莓派16GB闪存SD卡克隆到64GB闪存SD卡](https://v2fy.com/p/2021-10-09-pi-fdisk-1633793278000/)
 
-[《树莓派不吃灰》第四期： 用树莓派搭建公网个人下载平台aria2-pro，推荐6个优质种子资源站](https://v2fy.com/p/2021-10-05-pi-bt-aria2-pro-1633436631000/)
+[《树莓派不吃灰》第四期：安装Docker, 用树莓派搭建公网个人下载平台aria2-pro，推荐6个优质种子资源站](https://v2fy.com/p/2021-10-05-pi-bt-aria2-pro-1633436631000/)
 
 [《树莓派不吃灰》第三期：树莓派自建互联网云盘，跨设备打通全平台，安卓和iOS如何在非445端口使用samba服务 / 《Use Pi》 Issue 3 Raspberry Pi Self-Built Internet Cloud Disk, Cross-Device Connection Across All Platforms, How Android and iOS Use Samba Service on Non-445 Ports](https://v2fy.com/p/2021-10-04-pi-ios-android-1633327266000/)
 

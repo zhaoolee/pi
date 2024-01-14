@@ -30,7 +30,7 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 ---start---
-## 目录(2024年01月13日更新, 本仓库共管理29篇文章)
+## 目录(2024年01月14日更新, 本仓库共管理29篇文章)
 [《树莓派不吃灰》第二十五期：以树莓派为网关，将追剧刷课神器Plex服务配置到公网](https://v2fy.com/p/2024-01-05-15-57-07-plex/)
 
 [《树莓派不吃灰》第二十四期：懒是第一生产力，为树莓派安装可视化开源管理面板1Panel](https://v2fy.com/p/2023-12-09-12-11-10-1panel/)
@@ -39,29 +39,29 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 [《树莓派不吃灰》第二十二期：搭建qBittorrent Web UI为PT站7x24小时做种，持续获取魔力值](https://v2fy.com/p/2023-10-13-17-53-40-qbit/)
 
-[《树莓派不吃灰》第二十一期：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机 / 《Use Pi》Issue 21 Deploy the open-source remote desktop service rustdesk, smoothly control Windows, macOS, Linux hosts in the intranet and fluently in the extranet](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
+[《树莓派不吃灰》第二十一期：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
 
 [《树莓派不吃灰》第二十期：在树莓派运行rsnapshot, 实现对服务器数据低成本增量本地备份](https://v2fy.com/p/2023-08-17-rsnapshot-1692258217000/)
 
 [《树莓派不吃灰》第十九期：在树莓派搭建私人音乐服务器navidrome，并支持显示歌词](https://v2fy.com/p/2023-07-18-navidrome-1689661443000/)
 
-[无显示器玩转树莓派桌面版 / Play with Raspberry Pi Desktop Version Without a Monitor](https://v2fy.com/p/2023-06-23-pi-desktop-1687508111000/)
+[无显示器玩转树莓派桌面版](https://v2fy.com/p/2023-06-23-pi-desktop-1687508111000/)
 
-[《树莓派不吃灰》第十八期：代理Windows台式机支持Remote Desktop外网远程桌面连接, 随时玩转Stable Diffusion WebUI / 《Use Pi》 Issue 18 Proxying Windows Desktop to Support Remote Desktop Connection from the Internet, Playing with Stable Diffusion WebUI anytime](https://v2fy.com/p/2023-06-22-windows-pi-1687427373000/)
+[《树莓派不吃灰》第十八期：代理Windows台式机支持Remote Desktop外网远程桌面连接, 随时玩转Stable Diffusion WebUI](https://v2fy.com/p/2023-06-22-windows-pi-1687427373000/)
 
-[《树莓派不吃灰》第十七期：树莓派配合性能更好的闲置笔记本搭建开源免费jellyfin私人影院  / Raspberry Pi Home Server Building Guide Issue 17 Raspberry Pi combined with a better performing idle laptop to build an open-source free jellyfin private cinema](https://v2fy.com/p/2023-06-10-jellyfin-1686388142000/)
+[《树莓派不吃灰》第十七期：树莓派配合性能更好的闲置笔记本搭建开源免费jellyfin私人影院](https://v2fy.com/p/2023-06-10-jellyfin-1686388142000/)
 
-[《树莓派不吃灰》第十六期：安装Calibre Web建立公网可访问私人电子书库 / 《Use Pi》 Issue 16 Install Calibre Web to Build a Publicly Accessible Private E-book Library](https://v2fy.com/p/2023-06-09-calibre-web-1686295170000/)
+[《树莓派不吃灰》第十六期：安装Calibre Web建立公网可访问私人电子书库](https://v2fy.com/p/2023-06-09-calibre-web-1686295170000/)
 
-[《树莓派不吃灰》第十五期：树莓派自建私有化Docker仓库, 并配置公网访问用户认证 《Use Pi》  Issue 15 Raspberry Pi Self-Building Private Docker Repository, and Configuring Public Network Access User Authentication](https://v2fy.com/p/2022-01-08-docker-registry-1641648899000/)
+[《树莓派不吃灰》第十五期：树莓派自建私有化Docker仓库, 并配置公网访问用户认证](https://v2fy.com/p/2022-01-08-docker-registry-1641648899000/)
 
-[《树莓派不吃灰》第十四期：使用树莓派4B搭建k8s集群 / 《Use Pi》 Issue 14 Building a k8s Cluster Using Raspberry Pi 4B](https://v2fy.com/p/2022-01-05-k8s-pi-1641393748000/)
+[《树莓派不吃灰》第十四期：使用树莓派4B搭建k8s集群](https://v2fy.com/p/2022-01-05-k8s-pi-1641393748000/)
 
-[《树莓派不吃灰》第十三期：在树莓派安装Lazydocker命令行图形化界面快速管理Docker服务及镜像  / 《Use Pi》 Issue 13 Installing Lazydocker on Raspberry Pi for Quick Docker Service and Image Management via Command Line GUI](https://v2fy.com/p/2021-12-25-lazydocker-1640429729000/)
+[《树莓派不吃灰》第十三期：在树莓派安装Lazydocker命令行图形化界面快速管理Docker服务及镜像](https://v2fy.com/p/2021-12-25-lazydocker-1640429729000/)
 
 [《树莓派不吃灰》第十二期：降低BBS运营成本，将面向未来的BBS论坛程序Discourse部署到树莓派（私人BBS论坛一年运营成本300块！）](https://v2fy.com/p/2021-12-23-discourse-pi-1640269071000/)
 
-[《树莓派不吃灰》第十一期：个人博客最佳解决方案，在树莓派搭建WordPress网站，并开放到公网 / 《Use Pi》 Issue 11 The Best Solution for Personal Blogs, Building a WordPress Website on Raspberry Pi, and Making it Public](https://v2fy.com/p/2021-12-01-wordpress-pi-1638367676000/)
+[《树莓派不吃灰》第十一期：个人博客最佳解决方案，在树莓派搭建WordPress网站，并开放到公网 /](https://v2fy.com/p/2021-12-01-wordpress-pi-1638367676000/)
 
 [《树莓派不吃灰》第十期：在树莓派部署TiddlyWiki完成读写权限分离，开放到公网，建立自己的个人知识库](https://v2fy.com/p/2021-11-27-wiki-1637997854000/)
 
@@ -83,11 +83,11 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 [《树莓派不吃灰》第四期：安装Docker, 用树莓派搭建公网个人下载平台aria2-pro，推荐6个优质种子资源站](https://v2fy.com/p/2021-10-05-pi-bt-aria2-pro-1633436631000/)
 
-[《树莓派不吃灰》第三期：树莓派自建互联网云盘，跨设备打通全平台，安卓和iOS如何在非445端口使用samba服务 / 《Use Pi》 Issue 3 Raspberry Pi Self-Built Internet Cloud Disk, Cross-Device Connection Across All Platforms, How Android and iOS Use Samba Service on Non-445 Ports](https://v2fy.com/p/2021-10-04-pi-ios-android-1633327266000/)
+[《树莓派不吃灰》第三期：树莓派自建互联网云盘，跨设备打通全平台，安卓和iOS如何在非445端口使用samba服务](https://v2fy.com/p/2021-10-04-pi-ios-android-1633327266000/)
 
-[《树莓派不吃灰》第二期：网盘界的未来科技，新增smb服务并完成内网穿透，实现所有设备共享文件 / 《Use Pi》 Issue 2 The Future Technology of the Network Disk Industry, Adding SMB Service and Completing Intranet Penetration, Realizing File Sharing for All Devices](https://v2fy.com/p/2021-10-03-pi-smb-1633231650000/)
+[《树莓派不吃灰》第二期：网盘界的未来科技，新增smb服务并完成内网穿透，实现所有设备共享文件](https://v2fy.com/p/2021-10-03-pi-smb-1633231650000/)
 
-[《树莓派不吃灰》第一期：刷Ubuntu Server 20.04，绑定公网域名，对公网提供http服务，SSH登录服务 / 《Use Pi》 Issue 1  Flashing Ubuntu Server 20.04, Binding Public Domain, Providing HTTP Service to the Public Network, SSH Login Service](https://v2fy.com/p/2021-10-01-pi-server-1633066843000/)
+[《树莓派不吃灰》第一期：刷Ubuntu Server 20.04，绑定公网域名，对公网提供http服务，SSH登录服务](https://v2fy.com/p/2021-10-01-pi-server-1633066843000/)
 
 ---end---
 

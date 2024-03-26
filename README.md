@@ -30,54 +30,54 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 ---start---
-## 目录(2024年02月20日更新, 本仓库共管理31篇文章)
-[《树莓派不吃灰》第二十六期：为树莓派部署开源好用的Web版文件管理器FileBrowser,附Windows开机自启流程](https://v2fy.com/p/2024-02-19-14-40-36-file-browser/)
+## 目录(2024年03月26日更新, 本仓库共管理31篇文章)
+[《树莓派不吃灰》027：为树莓派部署开源好用的Web版文件管理器FileBrowser,附Windows开机自启流程](https://v2fy.com/p/2024-02-19-14-40-36-file-browser/)
 
-[《树莓派不吃灰》第二十六期：局域网开黑神器，使用Zerotier组建虚拟局域网，使用P2P技术为树莓派异地SMB下载超级加速](https://v2fy.com/p/2024-01-25-12-03-49-zerotier/)
+[《树莓派不吃灰》026：局域网开黑神器，使用Zerotier组建虚拟局域网，使用P2P技术为树莓派异地SMB下载超级加速](https://v2fy.com/p/2024-01-25-12-03-49-zerotier/)
 
-[《树莓派不吃灰》第二十五期：以树莓派为网关，将追剧刷课神器Plex服务配置到公网](https://v2fy.com/p/2024-01-05-15-57-07-plex/)
+[《树莓派不吃灰》025：以树莓派为网关，将追剧刷课神器Plex服务配置到公网](https://v2fy.com/p/2024-01-05-15-57-07-plex/)
 
-[《树莓派不吃灰》第二十四期：懒是第一生产力，为树莓派安装可视化开源管理面板1Panel](https://v2fy.com/p/2023-12-09-12-11-10-1panel/)
+[《树莓派不吃灰》024：懒是第一生产力，为树莓派安装可视化开源管理面板1Panel](https://v2fy.com/p/2023-12-09-12-11-10-1panel/)
 
-[《树莓派不吃灰》第二十三期：在树莓派搭建个人摄影站](https://v2fy.com/p/2023-10-17-14-51-23-photography/)
+[《树莓派不吃灰》023：在树莓派搭建个人摄影站](https://v2fy.com/p/2023-10-17-14-51-23-photography/)
 
-[《树莓派不吃灰》第二十二期：搭建qBittorrent Web UI为PT站7x24小时做种，持续获取魔力值](https://v2fy.com/p/2023-10-13-17-53-40-qbit/)
+[《树莓派不吃灰》022：搭建qBittorrent Web UI为PT站7x24小时做种，持续获取魔力值](https://v2fy.com/p/2023-10-13-17-53-40-qbit/)
 
-[《树莓派不吃灰》第二十一期：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
+[《树莓派不吃灰》021：部署开源远程桌面服务rustdesk,内网丝滑,外网流畅控制Windows,macOS,Linux主机](https://v2fy.com/p/2023-09-12-09-51-24-rustdesk/)
 
-[《树莓派不吃灰》第二十期：在树莓派运行rsnapshot, 实现对服务器数据低成本增量本地备份](https://v2fy.com/p/2023-08-17-rsnapshot-1692258217000/)
+[《树莓派不吃灰》020：在树莓派运行rsnapshot, 实现对服务器数据低成本增量本地备份](https://v2fy.com/p/2023-08-17-rsnapshot-1692258217000/)
 
-[《树莓派不吃灰》第十九期：在树莓派搭建私人音乐服务器navidrome，并支持显示歌词](https://v2fy.com/p/2023-07-18-navidrome-1689661443000/)
+[《树莓派不吃灰》019：在树莓派搭建私人音乐服务器navidrome，并支持显示歌词](https://v2fy.com/p/2023-07-18-navidrome-1689661443000/)
 
 [无显示器玩转树莓派桌面版](https://v2fy.com/p/2023-06-23-pi-desktop-1687508111000/)
 
-[《树莓派不吃灰》第十八期：代理Windows台式机支持Remote Desktop外网远程桌面连接, 随时玩转Stable Diffusion WebUI](https://v2fy.com/p/2023-06-22-windows-pi-1687427373000/)
+[《树莓派不吃灰》018：代理Windows台式机支持Remote Desktop外网远程桌面连接, 随时玩转Stable Diffusion WebUI](https://v2fy.com/p/2023-06-22-windows-pi-1687427373000/)
 
-[《树莓派不吃灰》第十七期：树莓派配合性能更好的闲置笔记本搭建开源免费jellyfin私人影院](https://v2fy.com/p/2023-06-10-jellyfin-1686388142000/)
+[《树莓派不吃灰》017：树莓派配合性能更好的闲置笔记本搭建开源免费jellyfin私人影院](https://v2fy.com/p/2023-06-10-jellyfin-1686388142000/)
 
-[《树莓派不吃灰》第十六期：安装Calibre Web建立公网可访问私人电子书库](https://v2fy.com/p/2023-06-09-calibre-web-1686295170000/)
+[《树莓派不吃灰》016：安装Calibre Web建立公网可访问私人电子书库](https://v2fy.com/p/2023-06-09-calibre-web-1686295170000/)
 
-[《树莓派不吃灰》第十五期：树莓派自建私有化Docker仓库, 并配置公网访问用户认证](https://v2fy.com/p/2022-01-08-docker-registry-1641648899000/)
+[《树莓派不吃灰》015：树莓派自建私有化Docker仓库, 并配置公网访问用户认证](https://v2fy.com/p/2022-01-08-docker-registry-1641648899000/)
 
-[《树莓派不吃灰》第十四期：使用树莓派4B搭建k8s集群](https://v2fy.com/p/2022-01-05-k8s-pi-1641393748000/)
+[《树莓派不吃灰》014：使用树莓派4B搭建k8s集群](https://v2fy.com/p/2022-01-05-k8s-pi-1641393748000/)
 
-[《树莓派不吃灰》第十三期：在树莓派安装Lazydocker命令行图形化界面快速管理Docker服务及镜像](https://v2fy.com/p/2021-12-25-lazydocker-1640429729000/)
+[《树莓派不吃灰》013：在树莓派安装Lazydocker命令行图形化界面快速管理Docker服务及镜像](https://v2fy.com/p/2021-12-25-lazydocker-1640429729000/)
 
-[《树莓派不吃灰》第十二期：降低BBS运营成本，将面向未来的BBS论坛程序Discourse部署到树莓派（私人BBS论坛一年运营成本300块！）](https://v2fy.com/p/2021-12-23-discourse-pi-1640269071000/)
+[《树莓派不吃灰》012：降低BBS运营成本，将面向未来的BBS论坛程序Discourse部署到树莓派（私人BBS论坛一年运营成本300块！）](https://v2fy.com/p/2021-12-23-discourse-pi-1640269071000/)
 
-[《树莓派不吃灰》第十一期：个人博客最佳解决方案，在树莓派搭建WordPress网站，并开放到公网 /](https://v2fy.com/p/2021-12-01-wordpress-pi-1638367676000/)
+[《树莓派不吃灰》011：个人博客最佳解决方案，在树莓派搭建WordPress网站，并开放到公网 /](https://v2fy.com/p/2021-12-01-wordpress-pi-1638367676000/)
 
-[《树莓派不吃灰》第十期：在树莓派部署TiddlyWiki完成读写权限分离，开放到公网，建立自己的个人知识库](https://v2fy.com/p/2021-11-27-wiki-1637997854000/)
+[《树莓派不吃灰》010：在树莓派部署TiddlyWiki完成读写权限分离，开放到公网，建立自己的个人知识库](https://v2fy.com/p/2021-11-27-wiki-1637997854000/)
 
-[《树莓派不吃灰》第九期：用树莓派低成本给热心老哥搭个窝，在树莓派建立BBS论坛flarum并映射到公网全攻略](https://v2fy.com/p/2021-11-26-flarum-1637921368000/)
+[《树莓派不吃灰》009：用树莓派低成本给热心老哥搭个窝，在树莓派建立BBS论坛flarum并映射到公网全攻略](https://v2fy.com/p/2021-11-26-flarum-1637921368000/)
 
-[《树莓派不吃灰》第八期：树莓派部署P2P文件同步服务程序syncthing全攻略](https://v2fy.com/p/2021-11-14-syncthing-1636866052000/)
+[《树莓派不吃灰》008：树莓派部署P2P文件同步服务程序syncthing全攻略](https://v2fy.com/p/2021-11-14-syncthing-1636866052000/)
 
-[《树莓派不吃灰》第七期：使用树莓派解锁网易云灰色音乐，并通过公网分享给小伙伴](https://v2fy.com/p/2021-11-06-netmusic-pi-1636163886000/)
+[《树莓派不吃灰》007：使用树莓派解锁网易云灰色音乐，并通过公网分享给小伙伴](https://v2fy.com/p/2021-11-06-netmusic-pi-1636163886000/)
 
-[《树莓派不吃灰》第六期：树莓派抓取微博博主RSS并提供公网访问，将RSSHub私有化部署到树莓派](https://v2fy.com/p/2021-10-20-rsshub-pi-1634690989000/)
+[《树莓派不吃灰》006：树莓派抓取微博博主RSS并提供公网访问，将RSSHub私有化部署到树莓派](https://v2fy.com/p/2021-10-20-rsshub-pi-1634690989000/)
 
-[《树莓派不吃灰》第五期： 用树莓派搭建私人每日自动签到平台](https://v2fy.com/p/2021-10-19-qiandao-1634595237000/)
+[《树莓派不吃灰》005： 用树莓派搭建私人每日自动签到平台](https://v2fy.com/p/2021-10-19-qiandao-1634595237000/)
 
 [《实用技巧》树莓派开机自动mount外置硬盘](https://v2fy.com/p/2021-10-17-mount-1634437477000/)
 
@@ -85,13 +85,13 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 [《实用技巧》超简单的树莓派SD卡扩容方案，将树莓派16GB闪存SD卡克隆到64GB闪存SD卡](https://v2fy.com/p/2021-10-09-pi-fdisk-1633793278000/)
 
-[《树莓派不吃灰》第四期：安装Docker, 用树莓派搭建公网个人下载平台aria2-pro，推荐6个优质种子资源站](https://v2fy.com/p/2021-10-05-pi-bt-aria2-pro-1633436631000/)
+[《树莓派不吃灰》004：安装Docker, 用树莓派搭建公网个人下载平台aria2-pro，推荐6个优质种子资源站](https://v2fy.com/p/2021-10-05-pi-bt-aria2-pro-1633436631000/)
 
-[《树莓派不吃灰》第三期：树莓派自建互联网云盘，跨设备打通全平台，安卓和iOS如何在非445端口使用samba服务](https://v2fy.com/p/2021-10-04-pi-ios-android-1633327266000/)
+[《树莓派不吃灰》003：树莓派自建互联网云盘，跨设备打通全平台，安卓和iOS如何在非445端口使用samba服务](https://v2fy.com/p/2021-10-04-pi-ios-android-1633327266000/)
 
-[《树莓派不吃灰》第二期：网盘界的未来科技，新增smb服务并完成内网穿透，实现所有设备共享文件](https://v2fy.com/p/2021-10-03-pi-smb-1633231650000/)
+[《树莓派不吃灰》002：网盘界的未来科技，新增smb服务并完成内网穿透，实现所有设备共享文件](https://v2fy.com/p/2021-10-03-pi-smb-1633231650000/)
 
-[《树莓派不吃灰》第一期：刷Ubuntu Server 20.04，绑定公网域名，对公网提供http服务，SSH登录服务](https://v2fy.com/p/2021-10-01-pi-server-1633066843000/)
+[《树莓派不吃灰》001：刷Ubuntu Server 20.04，绑定公网域名，对公网提供http服务，SSH登录服务](https://v2fy.com/p/2021-10-01-pi-server-1633066843000/)
 
 ---end---
 

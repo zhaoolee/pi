@@ -31,7 +31,7 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 ---start---
 ## 目录(2024年06月02日更新, 本仓库共管理32篇文章)
-[《树莓派不吃灰》028：在树莓派搭建Gitlab并映射到公网](https://v2fy.com/p/2024-05-25-17-19-40-gitlab/)
+[《树莓派不吃灰》028：在树莓派搭建Gitlab并完美映射到公网](https://v2fy.com/p/2024-05-25-17-19-40-gitlab/)
 
 [《树莓派不吃灰》027：为树莓派部署开源好用的Web版文件管理器FileBrowser,附Windows开机自启流程](https://v2fy.com/p/2024-02-19-14-40-36-file-browser/)
 

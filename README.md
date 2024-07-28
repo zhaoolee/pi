@@ -30,7 +30,7 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 ---start---
-## 目录(2024年06月23日更新, 本仓库共管理33篇文章)
+## 目录(2024年07月28日更新, 本仓库共管理33篇文章)
 [《树莓派不吃灰》029：在树莓派搭建Webdav, 通过命令行curl上传下载文件到树莓派](https://v2fy.com/p/2024-06-22-14-22-08-webdav/)
 
 [《树莓派不吃灰》028：在树莓派搭建Gitlab并完美映射到公网](https://v2fy.com/p/2024-05-25-17-19-40-gitlab/)

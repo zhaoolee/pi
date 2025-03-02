@@ -30,7 +30,9 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 ---start---
-## 目录(2024年12月07日更新, 本仓库共管理33篇文章)
+## 目录(2024年12月23日更新, 本仓库共管理34篇文章)
+[《树莓派不吃灰》030：Update kuma监控线上服务，服务预警通知到Telegram](https://v2fy.com/p/2024-12-22-12-42-57-kuma/)
+
 [《树莓派不吃灰》029：在树莓派搭建Webdav, 自建在浏览器直接使用的低成本私有网盘](https://v2fy.com/p/2024-06-22-14-22-08-webdav/)
 
 [《树莓派不吃灰》028：在树莓派搭建Gitlab并完美映射到公网](https://v2fy.com/p/2024-05-25-17-19-40-gitlab/)

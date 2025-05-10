@@ -30,7 +30,9 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 ---start---
-## 目录(2025年04月24日更新, 本仓库共管理35篇文章)
+## 目录(2025年05月10日更新, 本仓库共管理36篇文章)
+[《树莓派不吃灰》032：基于Deepseek每天自动算八字，自动生成最合适的摆件显示在办公桌](https://v2fy.com/p/2025-05-10-11-29-25-fortune/)
+
 [《树莓派不吃灰》031：基于Dufs在树莓派搭建基于Web的支持读写的网盘，顺带白送一个webdav服务](https://v2fy.com/p/2025-04-23-16-13-36-dufs/)
 
 [《树莓派不吃灰》030：Update kuma监控线上服务，服务预警通知到Telegram](https://v2fy.com/p/2024-12-22-12-42-57-kuma/)

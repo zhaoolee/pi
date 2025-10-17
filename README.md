@@ -30,12 +30,10 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 ---start---
-## 目录(2025年10月17日更新, 本仓库共管理37篇文章)
-
+## 目录(2025年10月17日更新, 本仓库共管理38篇文章)
 [《树莓派不吃灰》034：使用qemu在树莓派运行x86镜像，以大模型二道贩子x86镜像new api为例](https://v2fy.com/p/2025-10-16-22-25-01-x86/)
 
 [《树莓派不吃灰》033：为ubuntu server 24.04添加xfce4轻量化桌面配合xrdp实现图形化控制](https://v2fy.com/p/2025-05-19-17-26-58-pi-ubuntu-add-desktop/)
-
 
 [《树莓派不吃灰》032：基于Deepseek每天自动算八字，自动生成最合适的摆件显示在办公桌](https://v2fy.com/p/2025-05-10-11-29-25-fortune/)
 

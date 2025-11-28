@@ -30,7 +30,7 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 ---start---
-## 目录(2025年10月29日更新, 本仓库共管理39篇文章)
+## 目录(2025年11月28日更新, 本仓库共管理39篇文章)
 [《树莓派不吃灰》035：使用Metube下载存储你喜欢的Youtube视频](https://v2fy.com/p/2025-10-29-16-24-15-metube/)
 
 [《树莓派不吃灰》034：使用qemu在树莓派运行x86镜像，以大模型二道贩子x86镜像new api为例](https://v2fy.com/p/2025-10-16-22-25-01-x86/)

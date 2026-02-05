@@ -1,5 +1,7 @@
 {
     "USERNAME": "填写登录后台的用户名",
     "PASSWORD": "填写登录后台的密码",
-    "XMLRPC_PHP": "填写xmlrpc地址信息，如 https://fangyuanxiaozhan.com/xmlrpc.php"
+    "XMLRPC_PHP": "填写xmlrpc地址信息，如 https://fangyuanxiaozhan.com/xmlrpc.php",
+    "IMAGE_HOSTING_URL": "可以参考 https://github.com/zhaoolee/EasyTypora 部署服务, 填写URL https://cdn.fangyuanxiaozhan.com/upload_file",
+    "IMAGE_HOSTING_SECRET_TOKEN": "****%*********"
 }

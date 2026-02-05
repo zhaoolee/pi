@@ -30,7 +30,9 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 ---start---
-## 目录(2025年11月28日更新, 本仓库共管理39篇文章)
+## 目录(2026年02月04日更新)
+[《树莓派不吃灰》035：使用树莓派5B运行openclaw，快速领取麦当劳优惠券](https://v2fy.com/p/2026-02-03-09-09-04-openclaw-pi/)
+
 [《树莓派不吃灰》035：使用Metube下载存储你喜欢的Youtube视频](https://v2fy.com/p/2025-10-29-16-24-15-metube/)
 
 [《树莓派不吃灰》034：使用qemu在树莓派运行x86镜像，以大模型二道贩子x86镜像new api为例](https://v2fy.com/p/2025-10-16-22-25-01-x86/)
@@ -211,15 +213,8 @@ https://docs.vmware.com/cn/VMware-Workstation-Pro/17/com.vmware.ws.using.doc/GUI
 
 ## 微信交流群 / WeChat Discussion Group
 
-微信二维码图片地址: [https://frp.v2fy.com/dynamic-picture/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4/qr.png](https://frp.v2fy.com/dynamic-picture/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4/qr.png)
+可以通过公众号「0加1」最右边的菜单栏，加zhaoolee微信好友，备注「树莓派不吃灰」，zhaoolee拉你进微信交流群
 
-
-🌈WeChat QR Code Image Address: [https://frp.v2fy.com/dynamic-picture/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4/qr.png](https://frp.v2fy.com/dynamic-picture/%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4/qr.png)
-
-如果以上二维码不可用，可以通过公众号「0加1」最右边的菜单栏，加zhaoolee微信好友，备注「树莓派不吃灰」，zhaoolee拉你进微信交流群
-
-
-🌈If the above QR code is not available, you can add zhaoolee as a WeChat friend through the far right menu of the public number "0 plus 1", remark "Raspberry Pi does not eat dust", and zhaoolee will pull you into the WeChat discussion group.
 
 ![](https://user-images.githubusercontent.com/15868458/138030055-7d0cb756-fe9b-4a3d-8c81-eb3474fe7962.png)
 

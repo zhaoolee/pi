@@ -1,4 +1,4 @@
-name: fangyuanxiaozhan
+name: pi
 on:
   push:
     branches:    
@@ -17,17 +17,20 @@ jobs:
         with:
           python-version: '3.9'
           update-environment: true
-          cache: 'pipenv'
-      - name: Install pipenv
-        run: pip3 install --user pipenv
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
       - name: Install dependecies
-        run: pipenv install
+        run: uv sync --frozen
       - name: Build
         env:
           USERNAME: ${{ secrets.USERNAME }}
           PASSWORD: ${{ secrets.PASSWORD }}
           XMLRPC_PHP: ${{ secrets.XMLRPC_PHP }}
-        run: pipenv run build
+          IMAGE_HOSTING_URL: ${{ secrets.IMAGE_HOSTING_URL }}
+          IMAGE_HOSTING_SECRET_TOKEN: ${{ secrets.IMAGE_HOSTING_SECRET_TOKEN }}
+        run: uv run main.py
       - name: Commit and push if changed   # 将.md_sha1 README.md 更新到仓库
         run: |
           git diff

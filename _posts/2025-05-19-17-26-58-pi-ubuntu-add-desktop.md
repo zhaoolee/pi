@@ -155,9 +155,9 @@ sudo lsof -iTCP:3390 -sTCP:LISTEN
 
 ## 通过微软的rdp进行连接
 
-![image-20250521095119538](https://cdn.fangyuanxiaozhan.com/assets/1747792279736Y7KMiMzw.png)
+![image-20250521095119538](./2025-05-19-17-26-58-pi-ubuntu-add-desktop.assets/1747792279736Y7KMiMzw.png)
 
-![image-20250521095139634](https://cdn.fangyuanxiaozhan.com/assets/1747792299902cKKb2Ae1.png)
+![image-20250521095139634](./2025-05-19-17-26-58-pi-ubuntu-add-desktop.assets/1747792299902cKKb2Ae1.png)
 
 
 ubuntu官方在推广snap安装包，但是snap的沙盒模式，在xfce4配合xrdp的模式下会打不开界面，安装浏览器我们选择非snap版本。
@@ -187,7 +187,7 @@ Pin-Priority: 1001
 sudo apt install firefox
 ```
 
-![image-20250521084600309](https://cdn.fangyuanxiaozhan.com/assets/1747788360795xSwDXBFH.png)
+![image-20250521084600309](./2025-05-19-17-26-58-pi-ubuntu-add-desktop.assets/1747788360795xSwDXBFH.png)
 
 ## 安装Chromium浏览器
 
@@ -200,11 +200,11 @@ sudo apt update
 sudo apt install chromium -y
 ```
 
-![image-20250521093613676](https://cdn.fangyuanxiaozhan.com/assets/174779137445950PJkkD0.png)
+![image-20250521093613676](./2025-05-19-17-26-58-pi-ubuntu-add-desktop.assets/174779137445950PJkkD0.png)
 
 ## 可以通过右键快速打开安装的浏览器
 
-![image-20250521100651339](https://cdn.fangyuanxiaozhan.com/assets/1747793211688NAfFGkWp.png)
+![image-20250521100651339](./2025-05-19-17-26-58-pi-ubuntu-add-desktop.assets/1747793211688NAfFGkWp.png)
 
 ## 小结：
 

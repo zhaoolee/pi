@@ -30,8 +30,8 @@ Github合集目录: [https://github.com/zhaoolee/pi/tree/main/_posts](https://gi
 
 
 ---start---
-## 目录(2026年02月04日更新)
-[《树莓派不吃灰》035：使用树莓派5B运行openclaw，快速领取麦当劳优惠券](https://v2fy.com/p/2026-02-03-09-09-04-openclaw-pi/)
+## 目录(2026年02月05日更新)
+[《树莓派不吃灰》035：使用树莓派5B运行openclaw，快速领取麦当劳优惠券，使用skill刷推](https://v2fy.com/p/2026-02-03-09-09-04-openclaw-pi/)
 
 [《树莓派不吃灰》035：使用Metube下载存储你喜欢的Youtube视频](https://v2fy.com/p/2025-10-29-16-24-15-metube/)
 
